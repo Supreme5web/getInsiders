@@ -1,0 +1,10 @@
+{
+  "name": "solana-insider-detector-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot that detects insider wallet clusters for Solana tokens using RugCheck, deployed as a Vercel serverless function",
+  "main": "api/index.js",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "telegraf": "^4.16.3"
+  }
+}
